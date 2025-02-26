@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tgcorbett1911
-- 👀 I’m interested in leaning homelab and home networking
+- 👀 I’m interested in leaning homelab and home networking also learing AI basics
 - 🌱 I’m currently learning how to set up a basic home lab
 - 💞️ I’m looking to collaborate on just learning some basics
 - 📫 How to reach me cmdrcolt1911@protonmail.com
